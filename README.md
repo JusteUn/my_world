@@ -1,12 +1,13 @@
 # my_world - Epitech Project
 
 REQUIREMENT :
+
     -lib CSFML
 
 HOW TO USE :
 
-    -use make re
-    ./my_world
+    -do make with the rule re
+    - executable -> ./my_world
 
 GLOBAL GAME USAGE :
 
